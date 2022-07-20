@@ -1,0 +1,47 @@
+Id,Age,Gender,Blood Group,Date of Birth,Disease,BMI
+308,70,Female,A+,1952-03-04,Sepsis,34.2
+3019,70,Male,O-,1952-03-09,Sebaceous cyst,29.5
+5150,70,Female,O-,1952-03-17,Urinary tract obstruction,26
+5375,70,Female,A+,1952-03-06,Heat stroke,32.2
+6803,70,Male,O-,1952-03-23,Pulmonary eosinophilia,25
+7698,70,Female,O-,1952-03-11,Pinworm infection,26.9
+7701,70,Male,A+,1952-03-27,Diabetic kidney disease,28
+8259,70,Female,O-,1952-03-14,Allergy,23.9
+11385,70,Female,O-,1952-03-16,Rheumatoid arthritis,28.5
+13131,70,Female,O-,1952-03-11,Poisoning due to anticonvulsants,27.1
+16149,70,Male,O-,1952-03-03,Acute bronchiolitis,24.4
+16256,70,Male,A+,1952-03-09,Missed abortion,25.8
+16690,70,Male,A+,1952-03-23,Sporotrichosis,24.7
+18206,70,Male,O-,1952-03-26,Scurvy,35
+18837,70,Male,A+,1952-03-07,Open wound of the ear,32.6
+25140,70,Female,A+,1952-03-20,Friedrich ataxia,28.3
+25689,70,Male,A+,1952-03-28,Blepharospasm,27.6
+27382,70,Male,A+,1952-03-23,Vaginitis,31.8
+29489,70,Male,O-,1952-03-21,Hashimoto thyroiditis,31.7
+30871,70,Female,A+,1952-03-19,Neonatal jaundice,25.6
+32406,70,Female,O-,1952-03-15,Hyperopia,23.6
+39980,70,Female,O-,1952-03-23,Head injury,34
+41307,70,Female,O-,1952-03-11,Pleural effusion,28.6
+42001,70,Male,O-,1952-03-13,Skin polyp,27.9
+43037,70,Male,O-,1952-03-20,Vitamin A deficiency,24.7
+50149,70,Male,O-,1952-03-23,Breast infection (mastitis),32.8
+52081,70,Female,O-,1952-03-07,Dislocation of the hip,32.4
+52563,70,Male,O-,1952-03-02,Male genitalia infection,32.6
+55318,70,Male,A+,1952-03-13,Gynecomastia,25.9
+56597,70,Female,A+,1952-03-18,Dislocation of the foot,28.6
+64565,70,Male,O-,1952-03-27,Tooth abscess,33.6
+66498,70,Female,A+,1952-03-12,Tooth disorder,24.2
+67395,70,Male,A+,1952-03-16,Normal pressure hydrocephalus,27
+68167,70,Female,O-,1952-03-26,Idiopathic nonmenstrual bleeding,26.5
+72766,70,Female,O-,1952-03-09,Paronychia,26.8
+74743,70,Male,O-,1952-03-05,Von Hippel-Lindau disease,33.4
+76806,70,Male,A+,1952-03-21,Urethral valves,28
+77702,70,Male,O-,1952-03-23,Acute kidney injury,32.3
+83529,70,Male,A+,1952-03-21,Chlamydia,25
+84146,70,Female,A+,1952-03-23,Hiatal hernia,34
+85821,70,Male,A+,1952-03-27,Ectopic pregnancy,33.9
+86987,70,Male,O-,1952-03-06,Indigestion,30.2
+87455,70,Female,O-,1952-03-25,Seborrheic dermatitis,27.3
+91424,70,Female,O-,1952-03-16,Sick sinus syndrome,34.2
+98394,70,Male,O-,1952-03-21,Injury to the face,32.4
+99784,70,Female,O-,1952-03-27,Avascular necrosis,28.7
